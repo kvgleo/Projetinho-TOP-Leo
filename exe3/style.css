@@ -1,0 +1,46 @@
+*{margin: 0}
+.div_1{
+	background-color: #DCDCDC;
+	align-self: center;
+	width: 50%;
+	height: 100%;
+}
+
+button{
+	margin-top: 5px;
+	height: 40px;
+	border-radius: 5px;
+	font-size: 25px;
+	margin-bottom: 5px;
+	cursor: pointer;
+	background-color: white;
+
+}
+
+
+input{
+	margin-top: 5px;
+	height: 40px;
+	border-radius: 5px;
+	font-size: 25px;
+	margin-bottom: 5px;
+}
+
+h1{
+	font-family: Cambria;
+	background-color: black;
+	text-align: center;
+	color: white;
+	padding: 0;
+	width: 50%;
+}
+
+
+ul li {
+    background: white;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 23px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
